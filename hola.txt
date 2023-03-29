@@ -1,8 +1,8 @@
-hola empezamos
+holagit  empezamos
 cambio uno
 mas
 prelea
 vamos a seguir viendo que onda con estap
-este es el master
-da
-cacacas
+este es para el main
+por git hub
+git satts
